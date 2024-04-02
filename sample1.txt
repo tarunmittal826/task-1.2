@@ -1,2 +1,6 @@
 this is sample 1
+<<<<<<< HEAD
 my name is tarun
+=======
+this is changed by github
+>>>>>>> 44534f6be8930c4443f9a32e89b1e35d32787a5b
