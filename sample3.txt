@@ -1,2 +1,6 @@
 this is sample 3
+<<<<<<< HEAD
 this is tarun
+=======
+this is manan
+>>>>>>> 65af2ac2c924d52d62251ce30c189b96ba871e8e
